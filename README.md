@@ -6,8 +6,8 @@
 This is an efficient implementation of unsorted nonbinary trees in C. Each node on the
 tree is represented by a struct holding addresses of nodes under it. Each node can have
 up to 256 subnodes. The tree uses minimal memory by only allocating space on the heap
-for each used node. The table is can be traversed recursively using either breadth
-first search (BST) or depth first search (DST), both implemented recursively.
+for each used node. The table is can be traversed using either breadth first search 
+(BST) or depth first search (DST), both implemented recursively.
 
 
 
