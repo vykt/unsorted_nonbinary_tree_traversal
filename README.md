@@ -38,11 +38,11 @@ are available:
 ```
 add <index> <string> <method> - Add the entry <string> under the first node matching
                                 <index>, using <method> search algorithm where <method>
-								is one of 'breadth' or 'depth' (quotes excluded).
+				is one of 'breadth' or 'depth' (quotes excluded).
 
 check <index> <method>        - Check for the existence of node matching <index> using
                                 <method> search algorithm, where <method> is one of
-								'breadth' or 'depth' (quotes excluded).
+				'breadth' or 'depth' (quotes excluded).
 
 show tree                     - Display the tree. 
 ```
